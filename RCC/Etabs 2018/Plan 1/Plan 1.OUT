@@ -1,0 +1,60 @@
+
+
+ ETABS Ultimate 64-bit 18.1.0 Build 2117 (Analysis Build 9774/64)               
+ File: E:\ROHIT\IFS Etabs\Plan 1\Plan 1.OUT                                     
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+      11               -   -   -   -   -   -
+      12 TO      15    A   A   A   A   A   A
+      16               -   -   -   -   -   -
+      17 TO      20    A   A   A   A   A   A
+      21               -   -   -   -   -   -
+      22 TO      25    A   A   A   A   A   A
+      26               -   -   -   -   -   -
+      27 TO      30    A   A   A   A   A   A
+      31               -   -   -   -   -   -
+      32 TO      35    A   A   A   A   A   A
+      36               -   -   -   -   -   -
+      37 TO      40    A   A   A   A   A   A
+      41               -   -   -   -   -   -
+      42 TO      45    A   A   A   A   A   A
+      46               -   -   -   -   -   -
+      47 TO      50    A   A   A   A   A   A
+      51               -   -   -   -   -   -
+      52 TO      55    A   A   A   A   A   A
+      56               -   -   -   -   -   -
+      57 TO      60    A   A   A   A   A   A
+      61               -   -   -   -   -   -
+      62 TO      65    A   A   A   A   A   A
+      66               -   -   -   -   -   -
+      67 TO      70    A   A   A   A   A   A
+      71               -   -   -   -   -   -
+      72 TO      75    A   A   A   A   A   A
+      76               -   -   -   -   -   -
+      77 TO      80    A   A   A   A   A   A
+      81               -   -   -   -   -   -
+      82 TO      85    A   A   A   A   A   A
+      86               -   -   -   -   -   -
+      87 TO      90    A   A   A   A   A   A
+      91               -   -   -   -   -   -
+      92 TO      95    A   A   A   A   A   A
+      96               -   -   -   -   -   -
+      97 TO     100    A   A   A   A   A   A
+     101               -   -   -   -   -   -
+     102 TO     105    A   A   A   A   A   A
+     106               -   -   -   -   -   -
+     107 TO     110    A   A   A   A   A   A
+     111               -   -   -   -   -   -
+     112 TO     175    A   A   A   A   A   A
+     176 TO     177    -   -   -   -   -   -
+    ~164 TO    ~907    A   A   A   A   A   A

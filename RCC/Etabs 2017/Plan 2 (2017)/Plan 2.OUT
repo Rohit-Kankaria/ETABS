@@ -1,0 +1,39 @@
+ ETABS Ultimate 64-bit 17.0.1 Build 1888 (Analysis Build 9648/64)               
+ File: E:\ROHIT\IFS Etabs\Plan 2 (2017)\Plan 2.OUT                              
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+      38               -   -   -   -   -   -
+      39 TO      42    A   A   A   A   A   A
+      43               -   -   -   -   -   -
+      44 TO      47    A   A   A   A   A   A
+      48               -   -   -   -   -   -
+      49 TO      52    A   A   A   A   A   A
+      53               -   -   -   -   -   -
+      54 TO      57    A   A   A   A   A   A
+      58               -   -   -   -   -   -
+      59 TO      62    A   A   A   A   A   A
+      63               -   -   -   -   -   -
+      64 TO      67    A   A   A   A   A   A
+      68               -   -   -   -   -   -
+      69 TO      72    A   A   A   A   A   A
+      73               -   -   -   -   -   -
+      74 TO      77    A   A   A   A   A   A
+      78               -   -   -   -   -   -
+      79 TO      82    A   A   A   A   A   A
+      83               -   -   -   -   -   -
+      84 TO      87    A   A   A   A   A   A
+      88               -   -   -   -   -   -
+      89 TO      92    A   A   A   A   A   A
+      93               -   -   -   -   -   -
+      94 TO       4    A   A   A   A   A   A
+       9               -   -   -   -   -   -

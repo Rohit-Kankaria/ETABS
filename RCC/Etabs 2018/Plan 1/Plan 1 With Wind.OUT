@@ -1,0 +1,100 @@
+
+
+ ETABS Ultimate 64-bit 18.1.0 Build 2117 (Analysis Build 9774/64)               
+ File: E:\ROHIT\IFS Etabs\RCC\Plan 1\Plan 1 With Wind.OUT                       
+                                                                     
+                                                                       
+
+ 1, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+          166.887884  166.887884     .000000     .000000     .000000    9207.309
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      5.909579    5.909579    5.522845
+     Y     10.829515   10.829515   11.617415
+     Z     12.000000   12.000000   12.000000
+
+ 2, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+          188.950259  188.950259     .000000     .000000     .000000   10348.248
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      5.752395    5.752395    5.518354
+     Y     10.867867   10.867867   11.618510
+     Z      9.000000    9.000000    9.000000
+
+ 3, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+          188.950259  188.950259     .000000     .000000     .000000   10348.248
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      5.752395    5.752395    5.518354
+     Y     10.867867   10.867867   11.618510
+     Z      6.000000    6.000000    6.000000
+
+ 4, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+          188.950259  188.950259     .000000     .000000     .000000   10348.248
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      5.752395    5.752395    5.518354
+     Y     10.867867   10.867867   11.618510
+     Z      3.000000    3.000000    3.000000
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1 TO      23    -   -   -   -   -   -
+      24 TO      27    -   -   -   A   A   A
+      28 TO      39    +   +   A   A   A   +
+      40 TO      43    A   A   A   A   A   A
+      44 TO     151    +   +   A   A   A   +
+     152 TO     155    A   A   A   A   A   A
+     156 TO     163    +   +   A   A   A   +
+     172 TO     171    +   +   -   -   -   +
+    NULL                                    
+
+  CONSTRAINTS         U1  U2  U3  R1  R2  R3
+ 1       TO 4          A   A               A

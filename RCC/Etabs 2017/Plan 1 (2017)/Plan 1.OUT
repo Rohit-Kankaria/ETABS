@@ -1,0 +1,61 @@
+
+
+ ETABS Ultimate 64-bit 18.1.0 Build 2117 (Analysis Build 9774/64)               
+ File: E:\ROHIT\IFS Etabs\Plan 1 (2017)\Plan 1.OUT                              
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1               -   -   -   -   -   -
+       2 TO       5    A   A   A   A   A   A
+       9               -   -   -   -   -   -
+      10 TO      13    A   A   A   A   A   A
+      17               -   -   -   -   -   -
+      18 TO      21    A   A   A   A   A   A
+      25               -   -   -   -   -   -
+      26 TO      29    A   A   A   A   A   A
+      33               -   -   -   -   -   -
+      34 TO      37    A   A   A   A   A   A
+      41               -   -   -   -   -   -
+      42 TO      45    A   A   A   A   A   A
+      49               -   -   -   -   -   -
+      50 TO      53    A   A   A   A   A   A
+      57               -   -   -   -   -   -
+      58 TO      61    A   A   A   A   A   A
+      65               -   -   -   -   -   -
+      66 TO      69    A   A   A   A   A   A
+      73               -   -   -   -   -   -
+      74 TO      77    A   A   A   A   A   A
+      81               -   -   -   -   -   -
+      82 TO      85    A   A   A   A   A   A
+      89               -   -   -   -   -   -
+      90 TO      93    A   A   A   A   A   A
+      97               -   -   -   -   -   -
+      98 TO     101    A   A   A   A   A   A
+     105               -   -   -   -   -   -
+     106 TO     109    A   A   A   A   A   A
+     113               -   -   -   -   -   -
+     114 TO     117    A   A   A   A   A   A
+     121               -   -   -   -   -   -
+     122 TO     125    A   A   A   A   A   A
+     129               -   -   -   -   -   -
+     130 TO     133    A   A   A   A   A   A
+     137               -   -   -   -   -   -
+     138 TO     141    A   A   A   A   A   A
+     145               -   -   -   -   -   -
+     146 TO     149    A   A   A   A   A   A
+     153               -   -   -   -   -   -
+     154 TO     157    A   A   A   A   A   A
+     161               -   -   -   -   -   -
+     162 TO     192    A   A   A   A   A   A
+     193 TO     194    -   -   -   -   -   -
+     169 TO     222    A   A   A   A   A   A
+     223 TO     226    -   -   -   A   A   A
